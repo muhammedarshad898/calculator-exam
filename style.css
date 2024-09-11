@@ -1,0 +1,21 @@
+table{
+    border:3px solid black;
+    background-color: aliceblue;
+    width: 30%;
+}
+button{
+    background-color: aquamarine;
+    padding: 10px;
+    width: 100%;
+    border-radius: 5px;
+
+}
+td{
+    padding: 3px;
+
+}
+input{
+    border: 3px solid;
+    width: 100%;
+    padding: 10px;
+}
